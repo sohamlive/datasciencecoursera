@@ -1,0 +1,12 @@
+---
+title: "Hello World"
+author: "Soham Baneree"
+date: "22/06/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
